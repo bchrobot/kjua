@@ -1,5 +1,4 @@
-// Write your package code here!
+import kjua from 'kjua';
+import './kjua-image.js';
 
-// Variables exported by this module can be imported by other packages and
-// applications. See kjua-tests.js for an example of importing.
-export const name = 'kjua';
+export default kjua;
